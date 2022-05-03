@@ -18,8 +18,6 @@ The original project contemplates a simple portal where users can send waves(mes
 
 The reinterpretation turns the portal in a Love Portal, adding a love theme, the ability to Send Love (like) to a message and maybe win a prize in eth, multiple features to avoid misuse and to clarify the new functionality.
 
-The current portal uses the Rinkeby Testnet and is available to use in https://lucasbraidaloveportal.netlify.app
-
 
 ### Original Features
 
